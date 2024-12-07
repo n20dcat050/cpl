@@ -1,0 +1,3 @@
+/home/tai/Desktop/Project/MachineLearningWithCpp/build/CMakeFiles/main.dir
+/home/tai/Desktop/Project/MachineLearningWithCpp/build/CMakeFiles/edit_cache.dir
+/home/tai/Desktop/Project/MachineLearningWithCpp/build/CMakeFiles/rebuild_cache.dir
